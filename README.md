@@ -17,3 +17,5 @@
 
 1. 使用命令行完成相关操作；
 2. 使用Git管理代码时请尽可能的遵照[Git使用的最佳实践](https://github.com/iamcoach/git)。
+
+本次作业的提交人为郭荣栋 Eddy Guo。
